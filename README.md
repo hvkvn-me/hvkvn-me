@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @hvkvn-me
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there, Im HVKVN VFRVSIVB (:
 
-<!---
-hvkvn-me/hvkvn-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Fullstack Developer, DevOps Engineer, and OpenSource enthusiast 💎.<br>
+Find out more about me at [hakanafrasiab.ir](https://hakanafrasiab.ir/) 🐞.
+  
+<div style="display:flex;">
+ <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=hvkvn-me&data=followers,repositories,stars,commits" />
+</div>
